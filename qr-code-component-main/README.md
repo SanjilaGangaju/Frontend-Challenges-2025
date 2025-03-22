@@ -24,10 +24,7 @@ Build QR code component
 
 ![](./images/screenshot.jpeg)
 
-### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](http://127.0.0.1:3000/index.html)
 
 ## My process
 
