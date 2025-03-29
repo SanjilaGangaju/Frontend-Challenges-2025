@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/SanjilaGangaju/Frontend-Challenges-2025/blob/master/Blog-Preview-Card/)
+- Live Site URL: (https://sanjilagangaju.github.io/Frontend-Challenges-2025/Blog-Preview-Card/)
 
 ## My process
 
