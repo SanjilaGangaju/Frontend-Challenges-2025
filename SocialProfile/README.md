@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SanjilaGangaju/Frontend-Challenges-2025/tree/master/SocialProfile)
-- Live Site URL: [Add live site URL here](https://sanjilagangaju.github.io/Frontend-Challenges-2025/SocialProfile/)
+- Solution URL: [https://github.com/SanjilaGangaju/Frontend-Challenges-2025/tree/master/SocialProfile]
+- Live Site URL: [https://sanjilagangaju.github.io/Frontend-Challenges-2025/SocialProfile/]
 
 ## My process
 
