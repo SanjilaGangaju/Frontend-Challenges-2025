@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./social-links-profile-main/assets/images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/SanjilaGangaju/Frontend-Challenges-2025/tree/master/SocialProfile)
+- Live Site URL: [Add live site URL here](https://sanjilagangaju.github.io/Frontend-Challenges-2025/SocialProfile/)
 
 ## My process
 
